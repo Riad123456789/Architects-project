@@ -9,10 +9,10 @@ const Navbar = () => {
                 </div>
                 <div className="">
                     <ul className="flex gap-10 justify-center lg:gap-12 font-sans">
-                        <li>Home</li>
-                        <li>About</li>
-                        <li>Contact Us </li>
-                        <li>Login</li>
+                        <li className="cursor-pointer hover:text-red-700 font-serif">Home</li>
+                        <li className="cursor-pointer hover:text-red-700 font-serif">About</li>
+                        <li className="cursor-pointer hover:text-red-700 font-serif">Contact Us </li>
+                        <li className="cursor-pointer hover:text-red-700 font-serif">Login</li>
                     </ul>
                 </div>
             </div>
