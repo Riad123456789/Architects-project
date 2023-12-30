@@ -1,3 +1,4 @@
+import Awards from "./Components/Awards"
 import Banner from "./Components/Banner"
 import Experience from "./Components/Experience"
 import Features from "./Components/Features"
@@ -17,6 +18,7 @@ function App() {
       </div>
       <Features></Features>
       <Experience></Experience>
+      <Awards></Awards>
     </div>
   )
 }
