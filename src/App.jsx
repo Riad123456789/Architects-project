@@ -1,4 +1,5 @@
 import Banner from "./Components/Banner"
+import Experience from "./Components/Experience"
 import Features from "./Components/Features"
 import Navbar from "./Components/Navbar"
 
@@ -15,6 +16,7 @@ function App() {
         </div>
       </div>
       <Features></Features>
+      <Experience></Experience>
     </div>
   )
 }
