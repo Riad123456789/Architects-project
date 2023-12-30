@@ -3,6 +3,7 @@ import Banner from "./Components/Banner"
 import Experience from "./Components/Experience"
 import Features from "./Components/Features"
 import Navbar from "./Components/Navbar"
+import Sponser from "./Components/Sponser"
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Features></Features>
       <Experience></Experience>
       <Awards></Awards>
+      <Sponser></Sponser>
     </div>
   )
 }
