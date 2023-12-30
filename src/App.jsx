@@ -2,6 +2,7 @@ import Awards from "./Components/Awards"
 import Banner from "./Components/Banner"
 import Experience from "./Components/Experience"
 import Features from "./Components/Features"
+import Foother from "./Components/Foother"
 import Navbar from "./Components/Navbar"
 import Sponser from "./Components/Sponser"
 
@@ -21,6 +22,7 @@ function App() {
       <Experience></Experience>
       <Awards></Awards>
       <Sponser></Sponser>
+      <Foother></Foother>
     </div>
   )
 }
